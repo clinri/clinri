@@ -25,6 +25,8 @@
 11. Android SDK
 12. MVVM Architecture
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 ### Вот, что я умею
 * **Разработка мобильного Android-приложения “NeRecipe”** (приложение для удобного доступа к кулинарной книге.)
   *[Дипломная работа профессии "Android-разработчик"](https://disk.yandex.ru/i/8jtYROYKXGp4-A)*  
