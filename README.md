@@ -13,17 +13,16 @@
 
 ### Навыки (харды)
 1. Java
-2. GIT
-3. VBA
-4. Kotlin
-5. Intellij IDEA
-6. Microsoft Excel
-7. Microsoft Visio
-8. Ремонт и обслуживание ПК, сетевого оборудования.
-9. Linux OS
-10. Windows OS
-11. Android SDK
-12. MVVM Architecture
+2. Kotlin / Java
+3. GIT
+4. Intellij IDEA / Android Studio
+5. Android SDK
+6. SOLID
+7. MVVM Architecturу
+8. Hilt
+9. Coroutines
+10. Retrofit
+11. Firebase
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
