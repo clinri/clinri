@@ -12,17 +12,16 @@
 * С мая 2023 г. по настоящее время участвую в разработке мобильного приложения для детской спортивной школы.
 
 ### Навыки (харды)
-1. Java
-2. Kotlin / Java
-3. GIT
-4. Intellij IDEA / Android Studio
-5. Android SDK
-6. SOLID
-7. MVVM Architecturу
-8. Hilt
-9. Coroutines
-10. Retrofit
-11. Firebase
+1. Kotlin / Java
+2. GIT
+3. Intellij IDEA / Android Studio
+4. Android SDK
+5. SOLID
+6. MVVM Architecturу
+7. Hilt
+8. Coroutines
+9. Retrofit
+10. Firebase
 
 ### Code
 <!--START_SECTION:waka-->
