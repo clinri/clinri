@@ -24,7 +24,8 @@
 10. Retrofit
 11. Firebase
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Вот, что я умею
 * **Разработка мобильного Android-приложения “NeRecipe”** (приложение для удобного доступа к кулинарной книге.)
