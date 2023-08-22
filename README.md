@@ -24,6 +24,7 @@
 10. Retrofit
 11. Firebase
 
+### Code
 <!--START_SECTION:waka-->
 
 ```txt
@@ -41,8 +42,18 @@ Gradle     1 min           ▒░░░░░░░░░░░░░░░░�
   *[Дипломная работа профессии "Android-разработчик"](https://disk.yandex.ru/i/8jtYROYKXGp4-A)*  
   *[Решение](https://github.com/clinri/NeRecipe)*
 
-### Изучаю
-* JetPack Compose
+### ⚡ Toolbelt
+<p float="left">
+  <img height="20" alt="Kotlin" src="https://img.shields.io/badge/lang-Kotlin-blue?logo=kotlin"/>
+  <img height="20" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img height="20" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="20" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+</p>
+
+## 📚 Learning
+<p float="left">
+  <img height="20" alt="JetPackCompose" src="https://img.shields.io/badge/UI-JetPackCompose-blue?logo=jetpackcompose"/>
+</p>
 
 <!--
 **clinri/clinri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
