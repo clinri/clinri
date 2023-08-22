@@ -12,12 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
-        with:
+        with: # https://github.com/marketplace/actions/waka-readme#example
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           BLOCKS: -> # optional
+          SHOW_TOTAL: true # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           COMMITTER_NAME: GitHubActionBot
