@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2023 - To: 20 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Total Time: 10 hrs 3 mins
+Total Time: 6 hrs 55 mins
 
-Kotlin   9 hrs           >>>>>>>>>>>>>>>>>>>>>>---   89.50 %
-XML      54 mins         >>-----------------------   09.00 %
-Groovy   5 mins          -------------------------   00.93 %
-Gradle   2 mins          -------------------------   00.42 %
-SVG      0 secs          -------------------------   00.13 %
+Kotlin   6 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>---   87.66 %
+XML      49 mins         >>>----------------------   11.85 %
+SVG      0 secs          -------------------------   00.18 %
+Groovy   0 secs          -------------------------   00.13 %
+Gradle   0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
