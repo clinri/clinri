@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 18 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-Total Time: 12 hrs 25 mins
+Total Time: 15 hrs 33 mins
 
-Kotlin   6 hrs 13 mins   >>>>>>>>>>>>>------------   50.02 %
-XML      5 hrs 38 mins   >>>>>>>>>>>--------------   45.36 %
-YAML     14 mins         -------------------------   01.95 %
-Groovy   10 mins         -------------------------   01.47 %
-Gradle   8 mins          -------------------------   01.20 %
+XML              7 hrs 37 mins   >>>>>>>>>>>>-------------   49.01 %
+Kotlin           7 hrs 11 mins   >>>>>>>>>>>>-------------   46.22 %
+Groovy           15 mins         -------------------------   01.70 %
+YAML             13 mins         -------------------------   01.49 %
+ActionScript 3   7 mins          -------------------------   00.85 %
 ```
 
 <!--END_SECTION:waka-->
