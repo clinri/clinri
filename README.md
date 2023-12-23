@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 20 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-Total Time: 9 hrs 28 mins
+Total Time: 14 hrs 37 mins
 
-Kotlin     8 hrs 39 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.27 %
-XML        45 mins         >>-----------------------   08.00 %
-Java       1 min           -------------------------   00.31 %
-Gradle     1 min           -------------------------   00.26 %
-Markdown   0 secs          -------------------------   00.16 %
+Kotlin           11 hrs 34 mins  >>>>>>>>>>>>>>>>>>>>-----   79.14 %
+XML              2 hrs 54 mins   >>>>>--------------------   19.88 %
+GitIgnore file   2 mins          -------------------------   00.32 %
+Groovy           2 mins          -------------------------   00.24 %
+Gradle           1 min           -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
