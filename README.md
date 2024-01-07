@@ -27,14 +27,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 04 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Total Time: 17 hrs 22 mins
+Total Time: 22 hrs 21 mins
 
-Kotlin            15 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.07 %
-XML               1 hr 10 mins    >>-----------------------   06.76 %
-Java              19 mins         -------------------------   01.91 %
-Groovy            1 min           -------------------------   00.17 %
+Kotlin            20 hrs 53 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.46 %
+XML               1 hr 18 mins    >------------------------   05.83 %
+TOML              6 mins          -------------------------   00.45 %
+Java              2 mins          -------------------------   00.19 %
 Gradle            0 secs          -------------------------   00.04 %
 ```
 
