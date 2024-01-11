@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-Total Time: 30 hrs 22 mins
+Total Time: 32 hrs 12 mins
 
-Kotlin                 28 hrs 6 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.55 %
-XML                    2 hrs 8 mins    >>-----------------------   07.03 %
-TOML                   6 mins          -------------------------   00.33 %
-Gradle                 0 secs          -------------------------   00.04 %
-Shrinker Config File   0 secs          -------------------------   00.02 %
+Kotlin                 30 hrs 38 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.14 %
+XML                    1 hr 24 mins    >------------------------   04.36 %
+TOML                   6 mins          -------------------------   00.35 %
+Markdown               1 min           -------------------------   00.05 %
+Java                   0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
