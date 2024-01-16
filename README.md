@@ -9,20 +9,20 @@
 * С ноября 2021 по октябрь 2022 проходил обучение на курсе проф. переподготовки в ООО "Нетология" по специальности "Android-разработчик", получены доп. знания по Kolin, GIT, Android (MVVM, Room, Fragments, Firebase).
 * В феврале 2023 г. закончил обучение в ООО "Нетология" по программе "Промышленная разработка для Android".
 * В мае 2023 г. закончил обучение в ООО "Нетология" на курсе "Продвинутая разработка для Android".
-* С мая 2023 г. по настоящее время участвую в разработке мобильного приложения для детской спортивной школы.
+* С мая 2023 г. по настоящее время участвую в разработке мобильного приложения для детской спортивной школы ([ссылка на сайт АНО ФК "Молния-31"](https://molnia.nko31.ru)).
+* C августа 2023 г. по настояще время участвую в разработке мобильного приложения EmTalk ([ссылка на страницу в LinkedIn](https://www.linkedin.com/company/emtalkink)) - приложение для Android (MVP) стартап проекта для психического здоровья сотрудников B2C. В настоящее время находится на стадии разработки. Приложение интегрирует в себе обучение эмоциональному интеллекту с интерактивной игровой механикой).
 
 ### Навыки (харды)
-1. Java
-2. Kotlin / Java
-3. GIT
-4. Intellij IDEA / Android Studio
-5. Android SDK
-6. SOLID
-7. MVVM Architecturу
-8. Hilt
-9. Coroutines
-10. Retrofit
-11. Firebase
+1. Kotlin / Java
+2. GIT (GitHub/GitLab with CI/CD)
+3. Android Studio / Intellij IDEA
+4. Android SDK / Material Design
+5. SOLID/Clean-architecture
+6. MVVM/MVI Architecture
+7. Hilt/Dagger2
+8. Coroutines
+9. Retrofit
+10. Firebase (Firestore Database, Cloud Messaging, Authorization)
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
@@ -32,7 +32,8 @@
   *[Решение](https://github.com/clinri/NeRecipe)*
 
 ### Изучаю
-* JetPack Compose
+* JetPack Compose (EmTalk)
+* Firebase (Молния 31)
 
 <!--
 **clinri/clinri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
