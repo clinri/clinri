@@ -67,7 +67,6 @@ Markdown               1 min           -------------------------   00.05 %
 
 * JetPack Compose (EmTalk)
 * Firebase (Молния 31)
-*
 
 ### ⚡ Toolbelt
 
@@ -75,13 +74,13 @@ Markdown               1 min           -------------------------   00.05 %
   <img height="20" alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img height="20" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img height="20" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img height="20" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 
 ## 📚 Learning
 
 <p float="left">
   <img height="20" alt="JetPackCompose" src="https://img.shields.io/badge/JetPackCompose%20-%234285F4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img height="20" alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 
 <!--
