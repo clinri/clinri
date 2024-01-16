@@ -31,15 +31,20 @@ Visio, Outlook, PowerPoint. Программировал на VBA for AutoCad, f
 ### Навыки (харды)
 
 1. Kotlin / Java
-2. GIT (GitHub/GitLab with CI/CD)
+2. GIT (GitHub / GitLab with CI / CD)
 3. Android Studio / Intellij IDEA
 4. Android SDK / Material Design
-5. SOLID/Clean-architecture
-6. MVVM/MVI Architecture
-7. Hilt/Dagger2
-8. Coroutines
+5. SOLID / Clean-architecture
+6. MVVM / MVI Architecture
+7. Hilt / Dagger2
+8. Coroutines/Flow
+9. Room
 9. Retrofit
+10. Paging
+11. Glide
+11. Yandex Mapkit
 10. Firebase (Firestore Database, Cloud Messaging, Authorization)
+11. Графический редактор Figma (рисование/редактирвоание иконок для приложений)
 
 <!--START_SECTION:waka-->
 
