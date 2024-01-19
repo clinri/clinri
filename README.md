@@ -49,14 +49,14 @@ Visio, Outlook, PowerPoint. Программировал на VBA for AutoCad, f
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-Total Time: 40 hrs 28 mins
+Total Time: 40 hrs 34 mins
 
-Kotlin           38 hrs 57 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.26 %
-XML              1 hr 6 mins     >------------------------   02.73 %
-Java             10 mins         -------------------------   00.42 %
-TOML             9 mins          -------------------------   00.40 %
+Kotlin           37 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.32 %
+XML              2 hrs 4 mins    >------------------------   05.13 %
+Java             24 mins         -------------------------   00.99 %
+TOML             9 mins          -------------------------   00.37 %
 Groovy           3 mins          -------------------------   00.15 %
 ```
 
