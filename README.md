@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 17 hrs 40 mins
+Total Time: 15 hrs 44 mins
 
-Kotlin                15 hrs 9 mins   >>>>>>>>>>>>>>>>>>>>>----   85.83 %
-Java                  51 mins         >------------------------   04.90 %
-TOML                  34 mins         >------------------------   03.29 %
-XML                   28 mins         >------------------------   02.65 %
-JSON                  23 mins         >------------------------   02.21 %
+Kotlin         14 hrs 43 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.54 %
+Java           36 mins         >------------------------   03.91 %
+XML            19 mins         >------------------------   02.03 %
+JSON           4 mins          -------------------------   00.48 %
+TOML           0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
