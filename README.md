@@ -39,14 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-Total Time: 3 hrs 10 mins
+Total Time: 3 hrs 19 mins
 
-Kotlin          2 hrs 31 mins   >>>>>>>>>>>>>>>>>>>>-----   79.34 %
-JSON            30 mins         >>>>---------------------   16.12 %
-PlantUML file   7 mins          >------------------------   04.12 %
-Text            0 secs          -------------------------   00.42 %
+Kotlin          2 hrs 31 mins   >>>>>>>>>>>>>>>>>>>------   75.84 %
+JSON            30 mins         >>>>---------------------   15.41 %
+PlantUML file   12 mins         >>-----------------------   06.43 %
+Text            4 mins          >------------------------   02.32 %
 XML             0 secs          -------------------------   00.01 %
 ```
 
