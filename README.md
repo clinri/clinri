@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2024 - To: 04 June 2024
+From: 30 May 2024 - To: 06 June 2024
 
-Total Time: 8 hrs 44 mins
+Total Time: 14 hrs 42 mins
 
-Kotlin            7 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>>----   85.12 %
-Java              17 mins         >------------------------   03.40 %
-PlantUML file     15 mins         >------------------------   03.02 %
-XML               12 mins         >------------------------   02.42 %
-Properties        10 mins         -------------------------   01.94 %
+Kotlin            12 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>----   85.55 %
+Java              58 mins         >>-----------------------   06.61 %
+XML               19 mins         >------------------------   02.17 %
+YAML              11 mins         -------------------------   01.27 %
+Properties        10 mins         -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->
