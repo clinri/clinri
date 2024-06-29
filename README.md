@@ -39,14 +39,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2024 - To: 26 June 2024
+From: 21 June 2024 - To: 28 June 2024
 
-Total Time: 24 hrs 4 mins
+Total Time: 23 hrs 4 mins
 
-Kotlin                 13 hrs 17 mins  >>>>>>>>>>>>>>-----------   55.25 %
-XML                    10 hrs 11 mins  >>>>>>>>>>>--------------   42.32 %
-TOML                   27 mins         -------------------------   01.92 %
-Java                   6 mins          -------------------------   00.44 %
+Kotlin                 17 hrs 25 mins  >>>>>>>>>>>>>>>>>>>------   75.49 %
+XML                    4 hrs 53 mins   >>>>>--------------------   21.16 %
+TOML                   27 mins         >------------------------   02.00 %
+Java                   17 mins         -------------------------   01.27 %
 Shrinker Config File   0 secs          -------------------------   00.04 %
 ```
 
