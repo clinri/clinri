@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2024 - To: 10 July 2024
+From: 05 July 2024 - To: 12 July 2024
 
-Total Time: 28 hrs 52 mins
+Total Time: 35 hrs 59 mins
 
-Kotlin                 25 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.64 %
-XML                    1 hr 28 mins    >------------------------   05.11 %
-TOML                   49 mins         >------------------------   02.89 %
-JSON                   26 mins         -------------------------   01.56 %
-YAML                   13 mins         -------------------------   00.78 %
+Kotlin                 29 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>----   83.13 %
+XML                    3 hrs 18 mins   >>-----------------------   09.18 %
+TOML                   59 mins         >------------------------   02.78 %
+JSON                   26 mins         -------------------------   01.25 %
+YAML                   20 mins         -------------------------   00.94 %
 ```
 
 <!--END_SECTION:waka-->
