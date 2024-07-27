@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2024 - To: 24 July 2024
+From: 19 July 2024 - To: 26 July 2024
 
-Total Time: 34 hrs 15 mins
+Total Time: 33 hrs 3 mins
 
-Kotlin                 30 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.30 %
-XML                    2 hrs 27 mins   >>-----------------------   07.17 %
-Java                   1 hr 4 mins     >------------------------   03.12 %
-Diagrams.net Diagram   7 mins          -------------------------   00.35 %
-TOML                   0 secs          -------------------------   00.04 %
+Kotlin                 30 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>>>--   90.86 %
+XML                    1 hr 59 mins    >>-----------------------   06.01 %
+Java                   56 mins         >------------------------   02.84 %
+Diagrams.net Diagram   3 mins          -------------------------   00.17 %
+TOML                   2 mins          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
