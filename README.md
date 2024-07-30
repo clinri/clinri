@@ -36,6 +36,8 @@
 14. Firebase (Firestore Database, Cloud Messaging, Authorization)
 15. Графический редактор Figma (рисование/редактирвоание иконок для приложений)
 
+[![wakatime](https://wakatime.com/badge/user/e778006b-282d-432f-abd0-2a7eb49f3184.svg)](https://wakatime.com/@e778006b-282d-432f-abd0-2a7eb49f3184)
+
 <!--START_SECTION:waka-->
 
 ```txt
