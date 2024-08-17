@@ -41,15 +41,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2024 - To: 14 August 2024
+From: 09 August 2024 - To: 16 August 2024
 
-Total Time: 31 hrs 32 mins
+Total Time: 35 hrs 44 mins
 
-Kotlin                 27 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.95 %
-TOML                   2 hrs 9 mins    >>-----------------------   06.82 %
-XML                    1 hr 18 mins    >------------------------   04.13 %
-Properties             19 mins         -------------------------   01.02 %
-Java                   11 mins         -------------------------   00.60 %
+Kotlin                 31 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.27 %
+TOML                   2 hrs 9 mins    >>-----------------------   06.05 %
+XML                    1 hr 37 mins    >------------------------   04.56 %
+Properties             19 mins         -------------------------   00.90 %
+Java                   17 mins         -------------------------   00.80 %
 ```
 
 <!--END_SECTION:waka-->
