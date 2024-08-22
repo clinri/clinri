@@ -2,7 +2,7 @@
 
 ### Я Борисов Андрей, Android-разработчик
 
-[Моё резюме](https://disk.yandex.ru/i/Sh7-Uv5j9j3rxw)
+[Моё резюме](https://disk.yandex.ru/i/m36-yaPcj6FNdg)
 
 Android-разработка для меня это не только работа, но и хобби.
 Не боюсь командной строки и Linux.
@@ -75,7 +75,7 @@ EmTalk ([ссылка на страницу в LinkedIn](https://www.linkedin.co
 - YML,
 - CI.
 
-### ⚡ Навыки (hard-skills)
+# ⚡ Навыки (hard-skills)
 <p float="left">
   <img height="20" alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img height="20" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
