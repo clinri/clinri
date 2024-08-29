@@ -106,15 +106,15 @@ EmTalk ([ссылка на страницу в LinkedIn](https://www.linkedin.co
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2024 - To: 26 August 2024
+From: 21 August 2024 - To: 28 August 2024
 
-Total Time: 40 hrs 7 mins
+Total Time: 33 hrs 58 mins
 
-Kotlin                 25 hrs 53 mins  >>>>>>>>>>>>>>>>---------   64.52 %
-XML                    10 hrs 34 mins  >>>>>>>------------------   26.34 %
-TOML                   1 hr 54 mins    >------------------------   04.77 %
-Markdown               50 mins         >------------------------   02.10 %
-Java                   33 mins         -------------------------   01.37 %
+Kotlin            19 hrs 1 min    >>>>>>>>>>>>>>-----------   55.99 %
+XML               12 hrs 36 mins  >>>>>>>>>----------------   37.09 %
+TOML              58 mins         >------------------------   02.89 %
+Markdown          50 mins         >------------------------   02.48 %
+YAML              13 mins         -------------------------   00.65 %
 ```
 
 <!--END_SECTION:waka-->
