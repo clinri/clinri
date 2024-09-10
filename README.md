@@ -30,7 +30,7 @@ Android-разработка для меня это не только работ
 - MVI,
 - Figma,
 - Firebase Authentication,
-- FIrebase Firestore,
+- Firebase Firestore,
 - Firebase Storage,
 - Navigation component (XML-графы, Nested-графы, deep-links),
 - Custom View,
@@ -39,13 +39,12 @@ Android-разработка для меня это не только работ
 - Room,
 - SQLite,
 - Gradle DSL,
-- YML,
 - CI.
 
 ## ТОО "EmTalk"
 
 C августа 2023 г. по настояще время участвую в разработке мобильного приложения
-EmTalk ([ссылка на страницу в LinkedIn](https://www.linkedin.com/company/emtalkink)) - приложение для Android (MVP)
+EmTalk ([ссылка на сайт EmTalk](https://emtalk.org/)) - приложение для Android (MVP)
 стартап проекта для психического здоровья сотрудников B2C. В настоящее время находится на стадии разработки.
 Приложение интегрирует в себе обучение эмоциональному интеллекту с интерактивной игровой механикой).
 Работа в команде 3 человек, взаимодействие с Backend-разработчиками, дизайнерами и аналитиками. Покрытие UI-тестами.
@@ -62,7 +61,7 @@ EmTalk ([ссылка на страницу в LinkedIn](https://www.linkedin.co
 - Retrofit,
 - Postman,
 - OkHttp,
-- Firebase Authorization,
+- Firebase Authorization, Crashlitics,
 - OAuth (Google, Facebook),
 - Room,
 - SQLite,
@@ -72,7 +71,6 @@ EmTalk ([ссылка на страницу в LinkedIn](https://www.linkedin.co
 - MVI,
 - JUnit4,
 - Gradle DSL,
-- YML,
 - CI.
 
 # ⚡ Навыки (hard-skills)
@@ -98,7 +96,7 @@ EmTalk ([ссылка на страницу в LinkedIn](https://www.linkedin.co
 * Jetpack Compose
 * Coil
 * Yandex Mapkit
-* Firebase (Firestore Database, Cloud Messaging, Authorization в том числе через OAuth Google и Facebook)
+* Firebase (Crashlitics, Firestore Database, Cloud Messaging, Authorization в том числе через OAuth Google и Facebook)
 * Графический редактор Figma (рисование/редактирование иконок для приложений)
 
 [![wakatime](https://wakatime.com/badge/user/e778006b-282d-432f-abd0-2a7eb49f3184.svg)](https://wakatime.com/@e778006b-282d-432f-abd0-2a7eb49f3184)
