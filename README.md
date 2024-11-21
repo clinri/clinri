@@ -104,14 +104,15 @@ EmTalk ([ссылка на сайт EmTalk](https://emtalk.org/)) - прилож
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2024 - To: 18 November 2024
+From: 13 November 2024 - To: 20 November 2024
 
-Total Time: 5 hrs 42 mins
+Total Time: 5 hrs 55 mins
 
-Kotlin           5 hrs 29 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.05 %
-GitIgnore file   13 mins         >------------------------   03.91 %
-Java             0 secs          -------------------------   00.03 %
-IDEA_MODULE      0 secs          -------------------------   00.01 %
+Kotlin            4 hrs 9 mins    >>>>>>>>>>>>>>>>>>-------   70.12 %
+XML               1 hr 36 mins    >>>>>>>------------------   27.25 %
+GitIgnore file    8 mins          >------------------------   02.47 %
+Properties        0 secs          -------------------------   00.06 %
+Prolog            0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
