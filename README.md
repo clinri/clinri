@@ -104,15 +104,15 @@ EmTalk ([ссылка на сайт EmTalk](https://emtalk.org/)) - прилож
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-Total Time: 11 hrs 9 mins
+Total Time: 5 hrs 7 mins
 
-Kotlin            9 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>-----   80.77 %
-XML               1 hr 3 mins     >>-----------------------   09.12 %
-Other             21 mins         >------------------------   03.17 %
-GitIgnore file    15 mins         >------------------------   02.22 %
-Markdown          15 mins         >------------------------   02.20 %
+Kotlin            4 hrs 32 mins   >>>>>>>>>>>>>>>>>>>>>----   82.78 %
+Other             21 mins         >>-----------------------   06.65 %
+GitIgnore file    13 mins         >------------------------   04.18 %
+Markdown          11 mins         >------------------------   03.35 %
+textmate          5 mins          -------------------------   01.71 %
 ```
 
 <!--END_SECTION:waka-->
