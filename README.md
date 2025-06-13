@@ -104,7 +104,7 @@ EmTalk ([ссылка на сайт EmTalk](https://emtalk.org/)) - прилож
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 10 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
 Total Time: 0 secs
 
