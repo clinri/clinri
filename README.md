@@ -104,7 +104,7 @@ EmTalk ([ссылка на сайт EmTalk](https://emtalk.org/)) - прилож
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
 Total Time: 0 secs
 
